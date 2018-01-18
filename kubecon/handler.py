@@ -1,2 +1,2 @@
 def handle(st):
-    print("Palo Alto said: " + st)
+    print("NDC says: " + st)
