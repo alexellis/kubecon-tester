@@ -1,2 +1,2 @@
 def handle(st):
-    print("NDC says: " + st)
+    print("OpenFaaS Cloud here. You said: " + st)
