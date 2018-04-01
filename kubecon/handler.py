@@ -1,2 +1,2 @@
 def handle(st):
-    return "at KubeCon - you said: " + st
+    return "You said: " + st
