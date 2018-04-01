@@ -1,2 +1,2 @@
 def handle(st):
-    print("PyCon here. You said: " + st)
+    print("KubeCon - you said: " + st)
