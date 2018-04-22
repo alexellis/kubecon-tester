@@ -7,7 +7,3 @@ functions:
     lang: python
     handler: ./kubecon
     image: alexellis/kubecon
-  dockercon-tester:
-    lang: python
-    handler: ./dockercon-tester
-    image: dockercon-tester
