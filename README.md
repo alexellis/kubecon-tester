@@ -6,3 +6,4 @@ Used to trigger events for OpenFaaS Cloud for demos
 
 Updates are triggered by commits.
 
+hmac is validated too.
