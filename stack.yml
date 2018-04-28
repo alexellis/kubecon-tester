@@ -7,3 +7,10 @@ functions:
     lang: python
     handler: ./kubecon
     image: alexellis/kubecon
+
+  bcrypt:
+    lang: go
+    handler: ./bcrypt
+    image: bcrypt
+    environment:
+      content_type: application/json
