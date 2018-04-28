@@ -1,10 +1,13 @@
 # kubecon-tester
 ![Status](https://alexellis.get-faas.com/of-badge-gen?user=alexellis&repo=kubecon-tester)
 
-Used to trigger events for OpenFaaS Cloud for demos
+# Functions
+
+- kubecon
+
+This function can be invoked with a POST and will print your message back to you.
 
 # Updates
 
-Updates are triggered by commits.
-
-hmac is validated too.
+- Updates are triggered by commits
+- hmac is validated too
