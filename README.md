@@ -1,5 +1,6 @@
 # kubecon-tester
-![Status](https://alexellis.get-faas.com/of-badge-gen?user=alexellis&repo=kubecon-tester)
+![Status](https://alexellis.get-faas.com/of-badge-gen?user=alexellis&repo=kubecon-tester) 
+[![OpenFaaS](https://img.shields.io/badge/openfaas-serverless-blue.svg)](https://www.openfaas.com)
 
 # Functions
 
