@@ -20,3 +20,4 @@ To verify a hash call with "plain hash" and a querystring of action=decode.
 
 - Updates are triggered by commits
 - hmac is validated too
+
